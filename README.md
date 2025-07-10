@@ -91,7 +91,7 @@ Or open `index.html` directly in your browser (CORS restrictions may apply if yo
 ## 📸 Screenshots
 
 ### 📊 App Interface
-![UI Screenshot](./app_interface.png)
+![UI Screenshot](./images/app_interface.png)
 
 ---
 
