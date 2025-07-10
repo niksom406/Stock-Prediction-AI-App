@@ -90,11 +90,8 @@ Or open `index.html` directly in your browser (CORS restrictions may apply if yo
 
 ## 📸 Screenshots
 
-### 🔧 Error Display
-![Console Error Example](./screenshots/error-screenshot.png)
-
 ### 📊 App Interface
-![UI Screenshot](./screenshots/ui-sample.png)
+![UI Screenshot](./app_interface.png)
 
 ---
 
